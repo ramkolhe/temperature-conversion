@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+body{
+    height: 100vh;
+     display: flex;
+     background-image: "C:\Users\acer\OneDrive\Pictures\thermometer image.png";
+     
+    align-items: center;
+    justify-content: center;
+    }
+    .cf {
+width: 45px;
+
+padding: 40px;
+box-shadow: 0 20px 25px rgba(red, green, blue, alpha);
+border-radius: 40px;
+justify-content: space-between;
+font-family: Arial, Helvetica, sans-serif;
+font-style: oblique;
+ }
+.back {
+    padding: 0%;
+    font-size: 50px;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    align-items: top;
+}
+
+ 
